@@ -1,0 +1,3 @@
+Z:/Windows-Service-Concept/SampleService/CMakeFiles/Svc.dir
+Z:/Windows-Service-Concept/SampleService/CMakeFiles/ALL_BUILD.dir
+Z:/Windows-Service-Concept/SampleService/CMakeFiles/ZERO_CHECK.dir
